@@ -5,6 +5,17 @@ public class Mahasiswa10 {
     String nama, nim, kelas;
     double ipk;
 
+    public  Mahasiswa10() {
+
+    }
+
+    public Mahasiswa10 (String nm, String nim, double ipk, String kls) {
+        nama = nm;
+        this.nim = nim;
+        this.ipk = ipk;
+        kelas = kls;
+    }
+
     void tampilkanInformasi() {
         System.out.println("Nama : " + nama);
         System.out.println("NIM  : " + nim);
@@ -25,7 +36,7 @@ public class Mahasiswa10 {
         }
     }
 
-    String nilaiKinerja() {
+        String nilaiKinerja() {
         if (ipk >= 3.5) {
             return "Kinerja sangat baik.";
         } else if (ipk >= 3.0) {
