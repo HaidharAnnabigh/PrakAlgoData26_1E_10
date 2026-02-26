@@ -4,7 +4,7 @@ public class MatakuliahDemo {
     public static void main(String[] args) {
         Scanner haidhar = new Scanner(System.in);
         MataKuliah10[] arrayMatkul = new MataKuliah10[3];
-        String kode, nama, dummy;
+        String kode, nama, dummy, ruang;
         int sks, jmlJam;
 
         for(int i=0; i < 3; i++) {
@@ -19,10 +19,12 @@ public class MatakuliahDemo {
             System.out.print("Jumlah Jam: ");
             dummy = haidhar.nextLine();
             jmlJam = Integer.parseInt(dummy);
-            System.out.println("--------------------------------");
+            System.out.print("Ruang      : ");
+            ruang = haidhar.nextLine();
+            System.out.println("----------------------------------------------");
 
             arrayMatkul[i] = new MataKuliah10(kode, nama, sks, jmlJam);
-
+            arrayMatkul[i].tambahData(ruang);
             
         }
 
@@ -32,6 +34,7 @@ public class MatakuliahDemo {
             System.out.println("Nama Mata Kuliah: " + arrayMatkul[i].nama);
             System.out.println("Jumlah SKS      : " + arrayMatkul[i].sks);
             System.out.println("Jumlah Jam      : " + arrayMatkul[i].jmlJam);
+            System.out.println("Jumlah Jam      : " + arrayMatkul[i].ruang);
             System.out.println("----------------------------------------------");
             
         }
