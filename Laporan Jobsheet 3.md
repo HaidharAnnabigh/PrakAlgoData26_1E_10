@@ -56,6 +56,19 @@
 
 ## Tugas
 ### Tugas 1
+<img width="858" height="951" alt="image" src="https://github.com/user-attachments/assets/9730af25-395c-487b-8559-6cd0a8111e89" />
+<img width="844" height="496" alt="image" src="https://github.com/user-attachments/assets/3f213841-f073-44c0-82e3-d55c5a7ca0a7" />
+<img width="714" height="836" alt="image" src="https://github.com/user-attachments/assets/e6b28a4a-5c83-4503-96fc-9b763b975809" />
+
+### Tugas 2
+<img width="939" height="946" alt="image" src="https://github.com/user-attachments/assets/3a622e88-0cc5-4143-b59d-265de12d55c1" />
+<img width="875" height="163" alt="image" src="https://github.com/user-attachments/assets/dde29fda-b153-4ec2-afd5-14dedcde3b6a" />
+<img width="1070" height="948" alt="image" src="https://github.com/user-attachments/assets/53c1e62e-bcdb-42f7-b61e-b8aa2f517498" />
+<img width="877" height="529" alt="image" src="https://github.com/user-attachments/assets/982a0a55-644e-4d0a-8e0f-7aec010cde51" />
+<img width="714" height="836" alt="image" src="https://github.com/user-attachments/assets/e6b28a4a-5c83-4503-96fc-9b763b975809" />
+<img width="643" height="341" alt="image" src="https://github.com/user-attachments/assets/3170ca64-b833-4f8d-8421-0ef1b1a5d26f" />
+
+
 
 
 
