@@ -7,7 +7,6 @@ public class DosenDemo10 {
         System.out.print("Masukkan jumlah Dosen: ");
         int jmlDos = haidhar.nextInt();
         haidhar.nextLine();
-        System.out.println("----------------------------------------------");
         Dosen10[] arrayDos = new Dosen10[jmlDos];
         String kode, nama, jenKel;
         boolean jenisKelamin;
@@ -36,17 +35,10 @@ public class DosenDemo10 {
             
         }
 
-        DataDosen10 dataDosen = new DataDosen10();
-        System.out.println("---------------------- Informasi Dosen ----------------------");
-        dataDosen.dataSemuaDosen(arrayDos);
-        System.out.println("-------------- Jumlah Dosen per Jenis Kelamin ---------------");
-        dataDosen.jmlDosenPerJenkel(arrayDos);
-        System.out.println("---------- Rata-rata Usia Dosen per Jenis Kelamin -----------");
-        dataDosen.rerataUsiaDosenPerJenisKelamin(arrayDos);
-        System.out.println("=---------------- Informasi Dosen Paling Tua ----------------");
-        dataDosen.infoDosenPalingTua(arrayDos);
-        System.out.println("---------------- Informasi Dosen Paling Muda ----------------");
-        dataDosen.infoDosenPalingMuda(arrayDos);
+        System.out.println("------------------- Data Dosen -------------------");
+        for (Dosen10 dos : arrayDos) {
+            dos.tampil();
+        } 
     
         
 
