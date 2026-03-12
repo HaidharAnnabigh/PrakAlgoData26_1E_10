@@ -1,5 +1,4 @@
 package minggu5;
-
 public class Pangkat {
 
     int nilai, pangkat;
