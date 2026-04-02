@@ -12,7 +12,7 @@ public class Sorting10 {
             data[i] = Data[i];
         }
     }
-
+ 
     void bubbleSort() {
         int temp = 0;
         for (int i = 0; i < jumData - 1; i++) {
