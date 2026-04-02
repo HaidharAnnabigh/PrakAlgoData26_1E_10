@@ -75,3 +75,6 @@ int pangkatBF() {
 5. method totalDC() bekerja dengan cara membagi array menjadi dua bagian secara rekursif hingga mencapai kondisi dasar saat hanya tersisa satu elemen. Setelah itu, hasil dari bagian kiri dan kanan dijumlahkan kembali untuk mendapatkan total seluruh elemen array.
 ## Tugas
 ### Tugas 1
+<img width="655" height="889" alt="image" src="https://github.com/user-attachments/assets/0277e792-6a35-40a5-9658-d2c8242e8972" />
+<img width="810" height="578" alt="image" src="https://github.com/user-attachments/assets/4b2e3040-7dd9-4a3a-b3d9-6894dc27ef92" />
+<img width="431" height="85" alt="image" src="https://github.com/user-attachments/assets/34d37604-e790-40e8-a203-9ded5f8bf9ef" />
