@@ -1,4 +1,4 @@
-# Laporan Praktikum Algoritma dan Struktur Data
+<img width="856" height="571" alt="image" src="https://github.com/user-attachments/assets/b081cbe6-426e-40b4-94fb-c7f720425a64" /># Laporan Praktikum Algoritma dan Struktur Data
 <h4>Nama  : Haidhar Annabigh I.</h4>
 <h4>NIM   : 254107020103</h4>
 <h4>Kelas : TI-1E</h4>
@@ -56,4 +56,12 @@
 <img width="505" height="223" alt="image" src="https://github.com/user-attachments/assets/8cef588e-245f-455f-a41e-6dcd85df86cc" />
 
 ## Tugas
-### Tugas 1
+<img width="823" height="477" alt="image" src="https://github.com/user-attachments/assets/a9888e92-dac5-4931-bac8-e4155734f001" />
+<img width="847" height="738" alt="image" src="https://github.com/user-attachments/assets/066b9aaa-fd05-42f3-b35e-18d41e227151" />
+<img width="795" height="536" alt="image" src="https://github.com/user-attachments/assets/d22f3e70-a938-49fe-a4ae-7e94d2960fa3" />
+<img width="1006" height="845" alt="image" src="https://github.com/user-attachments/assets/d041f8a9-73e0-40ec-be77-87037eb96103" />
+<img width="856" height="571" alt="image" src="https://github.com/user-attachments/assets/45ee5a64-9d9a-4f8a-a887-d8c4424850e9" />
+<img width="694" height="509" alt="image" src="https://github.com/user-attachments/assets/8888c276-cc57-418f-ae66-fb580372360b" />
+<img width="564" height="755" alt="image" src="https://github.com/user-attachments/assets/f80e001b-6e93-4025-8d83-26f3560ff131" />
+<img width="605" height="752" alt="image" src="https://github.com/user-attachments/assets/fd9de123-8156-4238-a7e2-5fa5b6ecc7a1" />
+<img width="476" height="169" alt="image" src="https://github.com/user-attachments/assets/9d0e00f8-c237-4f78-be5a-3f7811abf3be" />
