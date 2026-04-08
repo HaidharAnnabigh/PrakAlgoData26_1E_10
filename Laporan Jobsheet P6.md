@@ -1,4 +1,3 @@
-<img width="856" height="571" alt="image" src="https://github.com/user-attachments/assets/b081cbe6-426e-40b4-94fb-c7f720425a64" /># Laporan Praktikum Algoritma dan Struktur Data
 <h4>Nama  : Haidhar Annabigh I.</h4>
 <h4>NIM   : 254107020103</h4>
 <h4>Kelas : TI-1E</h4>
