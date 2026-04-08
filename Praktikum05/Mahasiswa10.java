@@ -1,5 +1,5 @@
 package Praktikum05;
-
+ 
 public class Mahasiswa10 {
     String nim;
     String nama;

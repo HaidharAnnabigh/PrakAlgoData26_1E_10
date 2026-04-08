@@ -3,7 +3,7 @@ package Praktikum05;
 import java.util.Scanner;
 
 public class MahasiswaDemo10 {
-
+ 
     public static void main(String[] args) {
         Scanner haidhar = new Scanner (System.in);
         
