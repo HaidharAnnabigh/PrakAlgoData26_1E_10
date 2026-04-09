@@ -1,5 +1,5 @@
 package jobsheet6;
-
+ 
 public class MahasiswaBerprestasi10 {
 
     Mahasiswa10[] listMhs = new Mahasiswa10[5];
