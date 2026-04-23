@@ -1,4 +1,5 @@
 package Jobsheet9;
+
 public class StackTugasMahasiswa10 {
 
     Mahasiswa10[] stack;
@@ -11,7 +12,7 @@ public class StackTugasMahasiswa10 {
         top = -1;
     }
 
-    public boolean isFull () {
+    public boolean isFull() {
         if (top == size - 1) {
             return true;
         } else {
@@ -19,7 +20,7 @@ public class StackTugasMahasiswa10 {
         }
     }
 
-    public boolean isEmpty () {
+    public boolean isEmpty() {
         if (top == -1) {
             return true;
         } else {
@@ -36,7 +37,7 @@ public class StackTugasMahasiswa10 {
         }
     }
 
-     Mahasiswa10 pop() {
+    Mahasiswa10 pop() {
         if (!isEmpty()) {
             Mahasiswa10 m = stack[top];
             top--;
@@ -61,5 +62,18 @@ public class StackTugasMahasiswa10 {
             System.out.println(stack[i].nama + "\t" + stack[i].nim + "\t" + stack[i].kelas);
         }
         System.out.println("");
+    }
+
+    Mahasiswa10 peekBottom() {
+        if (!isEmpty()) {
+            return stack[0];
+        } else {
+            System.out.println("Stack kosong! Tidak ada tugas.");
+            return null;
+        }
+    }
+
+    int jumlahTugas() {
+        return top + 1;
     }
 }
