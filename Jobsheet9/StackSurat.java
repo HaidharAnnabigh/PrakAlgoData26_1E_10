@@ -38,7 +38,7 @@ public class StackSurat {
             return null;
         }
     }
-  
+   
     public Surat10 peek() {
         if (!isEmpty()) {
             return stack[top];
