@@ -1,6 +1,6 @@
 package P2Jobsheet10;
 
-public class Mahasiswa10 {
+public class Mahasiswa10 { 
     String nim;
     String nama;
     String prodi;

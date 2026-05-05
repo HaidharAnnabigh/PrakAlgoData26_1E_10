@@ -5,7 +5,7 @@ public class MainKRS {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         AntrianKRS antrian = new AntrianKRS(10);
-        int pilih;
+        int pilih; 
 
         do {
             System.out.println("\n====== Menu Antrian Layanan Akademik ======:");

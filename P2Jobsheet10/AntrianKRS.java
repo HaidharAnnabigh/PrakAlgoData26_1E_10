@@ -54,7 +54,7 @@ public class AntrianKRS {
             size--;
             sudahProses++;
         }
-    }
+    } 
 
     public void tampilSemua() {
         if (IsEmpty()) {
