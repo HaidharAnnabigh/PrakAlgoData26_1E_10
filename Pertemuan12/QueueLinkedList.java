@@ -5,7 +5,7 @@ public class QueueLinkedList {
     Node rear;
     int size;
     int max;
-
+ 
     public QueueLinkedList(int max) {
         this.max = max;
         size = 0;

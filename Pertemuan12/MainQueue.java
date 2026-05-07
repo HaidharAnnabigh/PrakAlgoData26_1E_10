@@ -44,7 +44,7 @@ public class MainQueue {
  
                         System.out.print("Prodi : ");
                         String prodi = sc.nextLine();
-
+                        
                         Mahasiswa mhs = new Mahasiswa(nim, nama, prodi);
 
                         antrian.enqueue(mhs);
