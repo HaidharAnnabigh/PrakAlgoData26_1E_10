@@ -1,5 +1,5 @@
 package Pertemuan12;
-
+ 
 public class Node {
     Mahasiswa data;
     Node next;

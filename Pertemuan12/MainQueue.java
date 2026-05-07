@@ -41,7 +41,7 @@ public class MainQueue {
 
                         System.out.print("Nama  : ");
                         String nama = sc.nextLine();
-
+ 
                         System.out.print("Prodi : ");
                         String prodi = sc.nextLine();
 

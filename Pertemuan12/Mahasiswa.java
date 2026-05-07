@@ -1,5 +1,5 @@
 package Pertemuan12;
-
+ 
 public class Mahasiswa {
     String nim;
     String nama;

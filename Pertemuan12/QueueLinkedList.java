@@ -1,5 +1,5 @@
 package Pertemuan12;
-
+ 
 public class QueueLinkedList {
     Node front;
     Node rear;
