@@ -73,6 +73,16 @@ public class DoubleLinkedList10 {
         }
     }
 
+    public void printReverse() {
+        Node10 current = tail;
+
+        while (current != null) {
+            current.data.tampil();
+            System.out.println("----------------------");
+            current = current.prev;
+        }
+    }
+
     public void removeFirst() {
         if (isEmpty()) {
             System.out.println("Linked List masih kosong, tidak dapat dihapus!");
@@ -97,4 +107,6 @@ public class DoubleLinkedList10 {
             tail = temp;
         }
     }
+
+    
 }
