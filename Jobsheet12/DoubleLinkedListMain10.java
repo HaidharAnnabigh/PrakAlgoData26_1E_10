@@ -40,7 +40,7 @@ public class DoubleLinkedListMain10 {
                     System.out.println("Masukkan data baru: ");
                     Mahasiswa10 dataBaru = inputMahasiswa(scan);
 
-                    list.insertAfter(keyNIM, dataBaru);
+                    list.insertAfter(keyNIM, dataBaru); 
                     break;
 
                 case 4:
