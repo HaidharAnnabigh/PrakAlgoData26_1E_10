@@ -1,5 +1,5 @@
 package Pertemuan14;
- 
+  
 public class BinaryTreeArrayMain10 {
  
     public static void main(String[] args) {
