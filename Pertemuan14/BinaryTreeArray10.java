@@ -1,5 +1,5 @@
 package Pertemuan14;
-
+ 
 public class BinaryTreeArray10 {
 
     Mahasiswa10[] dataMahasiswa;
