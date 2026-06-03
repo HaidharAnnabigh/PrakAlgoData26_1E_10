@@ -7,7 +7,7 @@ public class BinaryTreeArray10 {
 
     public BinaryTreeArray10() {
         this.dataMahasiswa = new Mahasiswa10[10];
-    }
+    } 
 
     void populateData (Mahasiswa10 dataMhs[], int idxLast) {
         this.dataMahasiswa = dataMhs;

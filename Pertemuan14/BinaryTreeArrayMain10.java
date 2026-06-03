@@ -1,7 +1,7 @@
 package Pertemuan14;
 
 public class BinaryTreeArrayMain10 {
-
+ 
     public static void main(String[] args) {
         BinaryTreeArray10 bta = new BinaryTreeArray10();
         Mahasiswa10 mhs1 = new Mahasiswa10("244106121", "Ali", "A", 3.57);
