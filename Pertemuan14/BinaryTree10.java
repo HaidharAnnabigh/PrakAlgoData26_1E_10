@@ -1,5 +1,5 @@
 package Pertemuan14;
-
+ 
 public class BinaryTree10 {
     Node10 root;
 

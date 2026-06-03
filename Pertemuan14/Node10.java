@@ -1,5 +1,5 @@
 package Pertemuan14;
-
+ 
 public class Node10 {
 
     Mahasiswa10 mahasiswa;

@@ -1,7 +1,7 @@
 package Pertemuan14;
 
 public class BinaryTreeMain10 {
-
+ 
     public static void main(String[] args) {
         BinaryTree10 bst = new BinaryTree10();
 
