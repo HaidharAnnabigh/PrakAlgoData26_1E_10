@@ -1,5 +1,5 @@
 package Pertemuan14;
-  
+
 public class BinaryTreeArray10 {
 
     Mahasiswa10[] dataMahasiswa;
@@ -7,9 +7,9 @@ public class BinaryTreeArray10 {
 
     public BinaryTreeArray10() {
         this.dataMahasiswa = new Mahasiswa10[10];
-    } 
+    }
 
-    void populateData (Mahasiswa10 dataMhs[], int idxLast) {
+    void populateData(Mahasiswa10 dataMhs[], int idxLast) {
         this.dataMahasiswa = dataMhs;
         this.idxLast = idxLast;
     }
@@ -17,10 +17,25 @@ public class BinaryTreeArray10 {
     void traverseInOrder(int idxStart) {
         if (idxStart <= idxLast) {
             if (dataMahasiswa[idxStart] != null) {
-                traverseInOrder(2*idxStart+1);
+                traverseInOrder(2 * idxStart + 1);
                 dataMahasiswa[idxStart].tampilInformasi();
-                traverseInOrder(2*idxStart+2);
+                traverseInOrder(2 * idxStart + 2);
             }
         }
+    }
+
+    public void traversePreOrder(int idxStart) {
+        if (idxStart <= idxLast && dataMahasiswa[idxStart] != null) {
+
+            dataMahasiswa[idxStart].tampilInformasi();
+
+            traversePreOrder(2 * idxStart + 1);
+            traversePreOrder(2 * idxStart + 2);
+        }
+    }
+
+    public void add(Mahasiswa10 mhs) {
+        idxLast++;
+        dataMahasiswa[idxLast] = mhs;
     }
 }
