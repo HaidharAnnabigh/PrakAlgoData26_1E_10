@@ -32,3 +32,23 @@
 4. Left Child berada pada indeks 5 dan Right Child berada pada indeks 6.
 5. menunjukkan bahwa indeks terakhir yang berisi data pada array tree adalah indeks ke-6.
 6. Karena pada representasi binary tree menggunakan array berlaku aturan Anak kiri berada pada indeks 2 * i + 1, Anak kanan berada pada indeks 2 * i + 2.
+
+## Tugas
+1. .
+
+   <img width="549" height="362" alt="image" src="https://github.com/user-attachments/assets/e162061a-7321-49b8-9794-c9f2c6e26ec7" />
+
+
+2. .
+   
+  <img width="600" height="637" alt="image" src="https://github.com/user-attachments/assets/0579b95f-87d4-4722-8ade-c39954de0a64" />
+
+
+3. .
+   
+  <img width="554" height="356" alt="image" src="https://github.com/user-attachments/assets/c3d55805-21c8-4490-9320-0cf0ca1e027b" />
+
+
+4. .
+   
+   <img width="575" height="320" alt="image" src="https://github.com/user-attachments/assets/a73a2b16-c34f-480d-8033-10c47611efef" />
